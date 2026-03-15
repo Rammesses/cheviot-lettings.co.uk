@@ -1,2 +1,2 @@
 # cheviot-lettings.co.uk
-Source code for Cheviot Lettings holding page
+Source code for Cheviot Lettings holding page.
